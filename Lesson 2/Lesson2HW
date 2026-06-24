@@ -1,0 +1,12 @@
+class User:
+    def login(self):
+        print("User has logged in")
+
+class PremiumUser(User):
+ def access_premium(self):
+  print("Accessing premium features")
+
+premium_user=PremiumUser()
+
+premium_user.login()
+premium_user.access_premium()
