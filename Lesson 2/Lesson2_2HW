@@ -1,0 +1,28 @@
+class User:
+
+    def login(self):
+        print("User logged in")
+
+
+class Student(User):
+
+    def watch_course(self):
+        print("Watching course")
+
+
+class Instructor(User):
+
+    def upload_course(self):
+        print("Uploading course")
+
+
+class TeachingAssistant(Student, Instructor):
+    pass
+
+
+a = TeachingAssistant()
+
+a.login()
+
+a.watch_course()
+a.upload_course()
