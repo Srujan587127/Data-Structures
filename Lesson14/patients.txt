@@ -1,0 +1,1003 @@
+patient_id,name,age,problem,priority
+101,Alex,18,Migraine,Normal
+102,Anjali,44,Heart Attack,Critical
+1001,Anika Khan,8,Migraine,Normal
+1002,Isha Desai,18,Sprain,Normal
+1003,Neha Malhotra,9,Fever,Normal
+1004,Ishaan Singh,69,Dehydration,Normal
+1005,Karan Kapoor,74,Dizziness,Normal
+1006,Saanvi Soni,40,Fever,Normal
+1007,Nisha Malhotra,48,Migraine,Normal
+1008,Ishaan Gupta,18,Cold,Normal
+1009,Ananya Rao,49,Dehydration,Normal
+1010,Maya Patel,63,Sprain,Normal
+1011,Rahul Mehta,75,Infection,Medium
+1012,Aryan Rao,78,Stomach Pain,Medium
+1013,Aditya Patel,34,Infection,Normal
+1014,Isha Khan,53,Migraine,Normal
+1015,Anika Rao,25,Breathing Problem,Normal
+1016,Ishaan Sharma,14,Dehydration,Medium
+1017,Diya Mistry,36,Chest Pain,Normal
+1018,Rahul Sharma,76,Back Pain,Medium
+1019,Rohan Patel,34,Headache,Normal
+1020,Rahul Sharma,13,Stomach Pain,High
+1021,Nisha Gupta,32,Diabetes,Normal
+1022,Anika Thakkar,23,Migraine,Normal
+1023,Isha Mistry,73,Migraine,Medium
+1024,Neha Malhotra,79,Food Poisoning,Normal
+1025,Isha Desai,70,Diabetes,Normal
+1026,Yash Patel,19,Fracture,Medium
+1027,Diya Malhotra,81,Cold,Normal
+1028,Rahul Parekh,64,Viral Infection,Normal
+1029,Karan Shah,19,Sprain,Normal
+1030,Yash Gupta,19,Infection,Normal
+1031,Diya Thakkar,5,Migraine,High
+1032,Yash Joshi,69,Cough,Medium
+1033,Kiara Dave,82,Stomach Pain,Normal
+1034,Riya Joshi,74,Viral Infection,Normal
+1035,Aryan Gupta,67,Fever,Normal
+1036,Riya Verma,35,Headache,Normal
+1037,Neha Mehta,15,Diabetes,Normal
+1038,Yash Mistry,21,Fracture,Medium
+1039,Vivaan Mistry,26,Migraine,High
+1040,Aryan Malhotra,32,Sprain,Medium
+1041,Nisha Kapoor,44,Food Poisoning,Medium
+1042,Anika Rao,61,Viral Infection,Normal
+1043,Ananya Singh,33,Cold,Normal
+1044,Aarav Soni,75,Back Pain,High
+1045,Isha Shah,14,Headache,Normal
+1046,Aditya Patel,47,Cold,High
+1047,Isha Sharma,67,Stomach Pain,High
+1048,Arjun Soni,78,Diabetes,Normal
+1049,Maya Trivedi,57,Stomach Pain,Normal
+1050,Ananya Malhotra,50,Dizziness,Normal
+1051,Saanvi Patel,17,Headache,Normal
+1052,Aditi Gupta,18,Back Pain,Normal
+1053,Ishaan Mistry,62,Fracture,Normal
+1054,Diya Sharma,64,Back Pain,Normal
+1055,Saanvi Mistry,17,Headache,Medium
+1056,Karan Shah,16,Back Pain,Normal
+1057,Sara Trivedi,66,Stomach Pain,Normal
+1058,Aanya Joshi,53,Fever,Normal
+1059,Kabir Thakkar,41,Dizziness,Medium
+1060,Aditi Mistry,67,Fracture,Normal
+1061,Kiara Kapoor,12,Weakness,Medium
+1062,Karan Patel,45,Headache,Normal
+1063,Neha Trivedi,69,Viral Infection,Normal
+1064,Aanya Dave,15,Chest Pain,Normal
+1065,Aryan Mehta,35,Food Poisoning,Normal
+1066,Neha Singh,79,Dehydration,Normal
+1067,Aryan Mehta,58,Weakness,High
+1068,Meera Gupta,38,Stomach Pain,Medium
+1069,Nisha Gupta,35,Migraine,Normal
+1070,Arjun Verma,63,Allergy,Normal
+1071,Aarav Thakkar,84,Weakness,Normal
+1072,Aditya Mistry,32,Viral Infection,Normal
+1073,Arjun Rao,13,Back Pain,Normal
+1074,Kiara Joshi,61,Sprain,Medium
+1075,Kiara Parekh,72,Fever,Medium
+1076,Karan Verma,18,Fracture,Normal
+1077,Ananya Khan,75,Fracture,Normal
+1078,Kiara Parekh,31,Allergy,Normal
+1079,Dev Sharma,69,Diabetes,Normal
+1080,Aanya Mehta,59,Migraine,Normal
+1081,Aarav Gupta,21,Migraine,Normal
+1082,Aditi Thakkar,75,Dizziness,High
+1083,Aarav Khan,14,Fracture,High
+1084,Aanya Rao,79,Sprain,Normal
+1085,Sara Desai,10,Infection,Normal
+1086,Maya Patel,50,Stomach Pain,Medium
+1087,Isha Khan,50,Sprain,Normal
+1088,Aryan Desai,35,Chest Pain,Normal
+1089,Sara Shah,27,Allergy,Normal
+1090,Maya Singh,39,Chest Pain,Medium
+1091,Ananya Nair,9,Diabetes,Normal
+1092,Ishaan Thakkar,49,Infection,Normal
+1093,Isha Shah,29,Food Poisoning,Normal
+1094,Kabir Mehta,40,Breathing Problem,Medium
+1095,Meera Nair,73,Allergy,Normal
+1096,Ananya Sharma,27,Weakness,Normal
+1097,Aanya Khan,81,Dizziness,Normal
+1098,Aditi Gupta,60,Dehydration,High
+1099,Ananya Nair,78,Stomach Pain,Normal
+1100,Aanya Malhotra,5,Viral Infection,High
+1101,Dev Kapoor,51,Dizziness,Normal
+1102,Dev Gupta,84,Allergy,Medium
+1103,Ananya Verma,69,Infection,Medium
+1104,Sara Gupta,56,Infection,High
+1105,Arjun Kapoor,58,Food Poisoning,Medium
+1106,Aditi Joshi,83,Weakness,Normal
+1107,Rahul Mistry,5,Infection,Normal
+1108,Ishaan Malhotra,79,Dehydration,Medium
+1109,Rohan Thakkar,61,High Blood Pressure,Medium
+1110,Ishaan Dave,65,Chest Pain,Medium
+1111,Aditya Verma,70,Dehydration,Normal
+1112,Aditya Singh,44,Back Pain,Normal
+1113,Arjun Shah,10,Back Pain,Normal
+1114,Aryan Mehta,63,Dizziness,Medium
+1115,Neha Kapoor,54,Diabetes,Normal
+1116,Isha Desai,5,Cough,Normal
+1117,Isha Joshi,71,High Blood Pressure,Normal
+1118,Karan Singh,20,High Blood Pressure,Normal
+1119,Maya Thakkar,72,Sprain,High
+1120,Rohan Thakkar,83,Viral Infection,Normal
+1121,Karan Thakkar,25,Diabetes,Normal
+1122,Kabir Singh,40,Viral Infection,Normal
+1123,Anika Singh,40,High Blood Pressure,Normal
+1124,Nisha Verma,35,Migraine,Normal
+1125,Rohan Mistry,15,Fracture,Normal
+1126,Isha Nair,24,Stomach Pain,Normal
+1127,Sara Malhotra,47,Sprain,Normal
+1128,Sara Patel,31,Dizziness,Normal
+1129,Yash Soni,7,Weakness,Normal
+1130,Vivaan Shah,50,Infection,Normal
+1131,Sara Mistry,74,Dehydration,Normal
+1132,Vivaan Singh,39,Dizziness,Normal
+1133,Aarav Nair,48,Food Poisoning,Medium
+1134,Diya Thakkar,21,Dehydration,High
+1135,Aarav Nair,80,Weakness,Medium
+1136,Aarav Mehta,59,Fracture,Normal
+1137,Diya Patel,38,Food Poisoning,Normal
+1138,Ishaan Thakkar,46,Allergy,Normal
+1139,Kabir Malhotra,37,Cold,Normal
+1140,Aarav Mistry,11,Breathing Problem,Normal
+1141,Anika Mehta,10,Fever,Normal
+1142,Ishaan Shah,84,Fracture,Normal
+1143,Arjun Trivedi,19,Weakness,Normal
+1144,Saanvi Sharma,52,Chest Pain,High
+1145,Aryan Khan,25,Infection,Normal
+1146,Neha Shah,44,Weakness,Medium
+1147,Rahul Nair,30,Cold,High
+1148,Nisha Singh,18,Infection,Medium
+1149,Aryan Khan,77,Headache,Normal
+1150,Karan Malhotra,52,Cold,High
+1151,Anika Gupta,6,Dizziness,Normal
+1152,Ananya Malhotra,51,High Blood Pressure,Medium
+1153,Arjun Malhotra,27,Viral Infection,Medium
+1154,Kabir Parekh,73,Diabetes,Normal
+1155,Sara Soni,39,Allergy,Normal
+1156,Aditya Sharma,62,Back Pain,Normal
+1157,Neha Parekh,53,Allergy,Normal
+1158,Vivaan Gupta,28,Diabetes,Normal
+1159,Riya Sharma,48,Migraine,High
+1160,Nisha Sharma,76,Fever,High
+1161,Ishaan Mehta,35,Dizziness,Normal
+1162,Karan Singh,65,Diabetes,Normal
+1163,Maya Shah,16,Infection,Normal
+1164,Rahul Singh,44,Weakness,Normal
+1165,Vivaan Mistry,72,Breathing Problem,Normal
+1166,Aditi Mistry,47,Breathing Problem,Medium
+1167,Saanvi Sharma,44,Migraine,Normal
+1168,Ananya Kapoor,45,Cough,Medium
+1169,Karan Joshi,29,Stomach Pain,Medium
+1170,Vivaan Sharma,80,Viral Infection,High
+1171,Kiara Khan,29,Infection,Normal
+1172,Riya Joshi,43,Fever,Medium
+1173,Karan Desai,40,Headache,Normal
+1174,Karan Verma,21,Diabetes,Normal
+1175,Aarav Soni,41,Diabetes,Normal
+1176,Saanvi Gupta,28,Headache,Normal
+1177,Vivaan Khan,13,Food Poisoning,Normal
+1178,Aditya Soni,85,Headache,Normal
+1179,Arjun Soni,43,Cold,Normal
+1180,Ananya Mistry,58,Dehydration,High
+1181,Maya Parekh,33,Viral Infection,Normal
+1182,Saanvi Thakkar,43,Weakness,Normal
+1183,Kiara Soni,84,Headache,High
+1184,Aditi Khan,31,Stomach Pain,Normal
+1185,Dev Mehta,25,Back Pain,Normal
+1186,Karan Mehta,25,Fever,Normal
+1187,Saanvi Parekh,65,Infection,Normal
+1188,Isha Verma,41,High Blood Pressure,Normal
+1189,Dev Singh,38,Weakness,Medium
+1190,Maya Kapoor,59,Cough,High
+1191,Isha Desai,39,Fracture,Normal
+1192,Aanya Joshi,44,Dehydration,Medium
+1193,Neha Verma,61,Cough,Normal
+1194,Nisha Verma,56,Migraine,High
+1195,Karan Trivedi,61,Cold,High
+1196,Aanya Malhotra,46,Dehydration,Normal
+1197,Aarav Mehta,34,Weakness,High
+1198,Aarav Sharma,78,Headache,Normal
+1199,Vivaan Dave,61,Migraine,Normal
+1200,Neha Malhotra,67,Cold,Normal
+1201,Riya Malhotra,47,Allergy,Medium
+1202,Ananya Joshi,47,Dizziness,Medium
+1203,Vivaan Verma,56,Sprain,Normal
+1204,Saanvi Mehta,45,Migraine,Normal
+1205,Ananya Nair,70,Fever,Medium
+1206,Karan Thakkar,57,Headache,Normal
+1207,Meera Rao,84,Diabetes,Medium
+1208,Saanvi Patel,31,Migraine,High
+1209,Arjun Verma,61,Diabetes,Normal
+1210,Aarav Parekh,35,Chest Pain,Normal
+1211,Karan Shah,75,Dizziness,Normal
+1212,Isha Khan,64,Cough,Medium
+1213,Arjun Trivedi,42,Viral Infection,Medium
+1214,Kabir Malhotra,66,Diabetes,Normal
+1215,Saanvi Mistry,23,Food Poisoning,Normal
+1216,Aryan Dave,22,Cold,Normal
+1217,Yash Malhotra,48,Viral Infection,Normal
+1218,Aarav Verma,43,Weakness,High
+1219,Dev Trivedi,24,High Blood Pressure,High
+1220,Vivaan Rao,47,Sprain,High
+1221,Rahul Thakkar,46,Stomach Pain,Medium
+1222,Isha Soni,54,Back Pain,Normal
+1223,Aanya Gupta,65,Food Poisoning,Normal
+1224,Dev Desai,68,Headache,Normal
+1225,Meera Soni,47,Cough,Normal
+1226,Ananya Dave,63,Fever,Medium
+1227,Arjun Malhotra,24,Cold,Normal
+1228,Maya Sharma,48,Dehydration,Medium
+1229,Rahul Mehta,47,Sprain,Normal
+1230,Rohan Trivedi,74,Headache,High
+1231,Aditya Singh,85,Infection,Normal
+1232,Aditi Mehta,60,Cough,Medium
+1233,Nisha Khan,61,Chest Pain,Medium
+1234,Kiara Shah,10,Allergy,Normal
+1235,Kiara Rao,52,Dizziness,Normal
+1236,Isha Dave,57,Weakness,Medium
+1237,Maya Joshi,26,Chest Pain,Normal
+1238,Aryan Nair,84,Back Pain,Normal
+1239,Neha Desai,34,High Blood Pressure,Medium
+1240,Kabir Thakkar,37,Fever,Normal
+1241,Kiara Mistry,25,Cold,Normal
+1242,Riya Soni,43,Dizziness,Medium
+1243,Kabir Thakkar,43,Stomach Pain,Normal
+1244,Vivaan Khan,35,Food Poisoning,High
+1245,Riya Soni,42,Infection,Normal
+1246,Dev Nair,40,Fever,High
+1247,Dev Patel,82,Diabetes,Normal
+1248,Yash Singh,82,Breathing Problem,Normal
+1249,Anika Kapoor,84,Migraine,Medium
+1250,Yash Desai,85,Cough,Medium
+1251,Anika Patel,44,High Blood Pressure,Normal
+1252,Neha Rao,21,Cold,Normal
+1253,Rohan Malhotra,27,Stomach Pain,Normal
+1254,Maya Mistry,51,Viral Infection,High
+1255,Kabir Joshi,37,Diabetes,Normal
+1256,Aditi Gupta,19,High Blood Pressure,Normal
+1257,Arjun Singh,55,Sprain,Normal
+1258,Aditya Nair,6,Migraine,High
+1259,Ananya Thakkar,52,Migraine,High
+1260,Rahul Rao,18,Back Pain,Normal
+1261,Aarav Parekh,76,Allergy,High
+1262,Isha Mehta,64,Infection,Medium
+1263,Sara Khan,22,Headache,Normal
+1264,Kiara Trivedi,19,Cough,Normal
+1265,Karan Desai,54,High Blood Pressure,Normal
+1266,Dev Mistry,58,Weakness,Medium
+1267,Aditi Desai,58,Cough,Normal
+1268,Aryan Malhotra,40,Headache,Medium
+1269,Riya Kapoor,61,High Blood Pressure,Normal
+1270,Riya Khan,52,Sprain,Medium
+1271,Riya Patel,55,Migraine,Normal
+1272,Ananya Thakkar,16,Stomach Pain,Medium
+1273,Anika Parekh,7,Headache,Normal
+1274,Isha Desai,77,Stomach Pain,Normal
+1275,Yash Mistry,31,Weakness,Normal
+1276,Isha Gupta,23,Dehydration,Normal
+1277,Kabir Desai,21,Sprain,Normal
+1278,Maya Joshi,19,Fever,Normal
+1279,Aarav Rao,35,Weakness,Normal
+1280,Aarav Joshi,38,Headache,Normal
+1281,Aditi Malhotra,72,Cough,Medium
+1282,Aditya Trivedi,62,Breathing Problem,High
+1283,Neha Khan,62,Viral Infection,Normal
+1284,Aryan Patel,71,Infection,Normal
+1285,Anika Shah,12,Diabetes,Normal
+1286,Sara Khan,67,High Blood Pressure,Normal
+1287,Aditya Gupta,82,Fracture,Normal
+1288,Arjun Sharma,84,Weakness,High
+1289,Nisha Gupta,53,Dehydration,High
+1290,Kiara Thakkar,69,Dehydration,Normal
+1291,Ananya Khan,75,Stomach Pain,Normal
+1292,Saanvi Singh,57,Allergy,Normal
+1293,Rahul Malhotra,17,Allergy,Normal
+1294,Rohan Sharma,52,Fracture,Medium
+1295,Vivaan Mehta,16,Cold,Normal
+1296,Sara Khan,52,Fracture,High
+1297,Aanya Soni,76,Sprain,Normal
+1298,Dev Khan,57,Breathing Problem,Medium
+1299,Yash Malhotra,11,Infection,High
+1300,Kiara Rao,18,Weakness,High
+1301,Ishaan Desai,66,Back Pain,Normal
+1302,Riya Mistry,52,Cough,Normal
+1303,Neha Singh,59,Sprain,High
+1304,Aryan Mistry,8,Dehydration,Medium
+1305,Nisha Sharma,8,Chest Pain,Normal
+1306,Nisha Verma,48,Breathing Problem,Normal
+1307,Diya Desai,77,Food Poisoning,Normal
+1308,Arjun Shah,16,Viral Infection,Normal
+1309,Rahul Malhotra,63,Allergy,Normal
+1310,Riya Verma,46,Weakness,High
+1311,Aditya Patel,24,Chest Pain,High
+1312,Aanya Mehta,39,High Blood Pressure,Medium
+1313,Sara Trivedi,82,High Blood Pressure,Normal
+1314,Kabir Kapoor,70,Cough,Normal
+1315,Sara Khan,41,Weakness,Normal
+1316,Meera Verma,10,Back Pain,Normal
+1317,Aryan Patel,5,Stomach Pain,Normal
+1318,Ishaan Desai,37,Infection,Normal
+1319,Ananya Shah,68,Dizziness,Normal
+1320,Arjun Nair,73,Back Pain,High
+1321,Karan Rao,14,Food Poisoning,Medium
+1322,Aanya Malhotra,7,High Blood Pressure,Normal
+1323,Rohan Soni,59,Weakness,Normal
+1324,Nisha Malhotra,42,Cough,Normal
+1325,Aarav Gupta,26,Dehydration,Normal
+1326,Nisha Rao,16,Dizziness,Normal
+1327,Isha Malhotra,80,Food Poisoning,High
+1328,Aditya Nair,44,Allergy,Normal
+1329,Rohan Joshi,14,Viral Infection,Medium
+1330,Ananya Dave,70,Stomach Pain,Normal
+1331,Riya Desai,35,Cough,Normal
+1332,Kabir Kapoor,27,Dehydration,Normal
+1333,Yash Mehta,27,Diabetes,Normal
+1334,Yash Soni,79,High Blood Pressure,Medium
+1335,Neha Parekh,46,Allergy,Normal
+1336,Saanvi Mehta,65,High Blood Pressure,Medium
+1337,Kiara Sharma,80,Headache,Normal
+1338,Meera Mehta,44,High Blood Pressure,Normal
+1339,Aanya Patel,52,Infection,Normal
+1340,Anika Mehta,83,Dehydration,High
+1341,Rahul Thakkar,79,Sprain,Medium
+1342,Aanya Thakkar,78,Stomach Pain,Normal
+1343,Aryan Trivedi,69,Fracture,Normal
+1344,Saanvi Khan,48,Cold,High
+1345,Anika Joshi,10,Back Pain,Medium
+1346,Saanvi Thakkar,72,Viral Infection,High
+1347,Diya Rao,52,Infection,Normal
+1348,Sara Gupta,81,Headache,Medium
+1349,Anika Gupta,13,Allergy,Normal
+1350,Karan Nair,41,Migraine,Medium
+1351,Dev Parekh,24,Allergy,Normal
+1352,Neha Desai,49,Infection,Medium
+1353,Nisha Nair,21,Dehydration,Medium
+1354,Aditya Verma,76,Food Poisoning,Medium
+1355,Maya Gupta,21,Viral Infection,Normal
+1356,Anika Malhotra,70,Breathing Problem,Normal
+1357,Riya Verma,28,Stomach Pain,Normal
+1358,Yash Trivedi,29,Back Pain,Normal
+1359,Arjun Mehta,42,Cough,High
+1360,Yash Mistry,72,Headache,Medium
+1361,Rohan Parekh,21,Dehydration,Normal
+1362,Arjun Joshi,28,Dehydration,Normal
+1363,Aditi Thakkar,10,Dizziness,Normal
+1364,Dev Singh,61,Dehydration,Normal
+1365,Yash Thakkar,34,Sprain,Normal
+1366,Kiara Trivedi,29,Breathing Problem,Medium
+1367,Neha Thakkar,64,Infection,Normal
+1368,Meera Dave,58,Chest Pain,Normal
+1369,Maya Parekh,22,Migraine,Normal
+1370,Anika Trivedi,52,Sprain,Normal
+1371,Nisha Dave,20,Infection,Normal
+1372,Yash Joshi,39,High Blood Pressure,High
+1373,Arjun Malhotra,16,Back Pain,Normal
+1374,Riya Shah,58,Headache,Normal
+1375,Meera Rao,35,Food Poisoning,Normal
+1376,Riya Singh,8,Allergy,Normal
+1377,Nisha Gupta,23,Fracture,Normal
+1378,Kiara Trivedi,22,Diabetes,Normal
+1379,Aryan Shah,15,Fever,Normal
+1380,Ishaan Desai,75,Dehydration,High
+1381,Sara Khan,41,Back Pain,Normal
+1382,Ananya Patel,35,Dizziness,Medium
+1383,Maya Parekh,63,Cold,Normal
+1384,Vivaan Parekh,73,Fever,Medium
+1385,Meera Soni,35,Fracture,Normal
+1386,Sara Shah,83,Breathing Problem,Normal
+1387,Neha Malhotra,28,Cold,High
+1388,Riya Mehta,72,Sprain,High
+1389,Maya Dave,75,Fever,Normal
+1390,Vivaan Patel,54,Breathing Problem,Normal
+1391,Aditi Shah,50,Cold,Normal
+1392,Isha Khan,79,Allergy,Normal
+1393,Aanya Rao,74,Allergy,Medium
+1394,Diya Thakkar,66,Chest Pain,Normal
+1395,Aditya Thakkar,9,Infection,Normal
+1396,Aanya Kapoor,10,Allergy,Normal
+1397,Meera Nair,74,Diabetes,Normal
+1398,Aanya Kapoor,41,Breathing Problem,Normal
+1399,Anika Gupta,39,Cough,Normal
+1400,Sara Nair,61,Food Poisoning,Normal
+1401,Diya Trivedi,68,Breathing Problem,High
+1402,Kabir Mehta,59,Cold,Normal
+1403,Aryan Joshi,74,Infection,Normal
+1404,Ananya Mehta,46,Infection,Normal
+1405,Saanvi Parekh,59,Chest Pain,Medium
+1406,Saanvi Rao,62,Headache,Medium
+1407,Riya Parekh,60,Migraine,Medium
+1408,Maya Patel,14,Food Poisoning,Normal
+1409,Meera Joshi,8,Fracture,High
+1410,Dev Thakkar,9,Fracture,Normal
+1411,Isha Rao,51,Food Poisoning,High
+1412,Aanya Parekh,24,High Blood Pressure,Normal
+1413,Riya Thakkar,14,Weakness,Normal
+1414,Meera Rao,55,Allergy,Medium
+1415,Kabir Singh,19,Fever,Medium
+1416,Diya Trivedi,71,Food Poisoning,High
+1417,Ananya Sharma,38,High Blood Pressure,Normal
+1418,Aryan Verma,67,Stomach Pain,Normal
+1419,Arjun Mehta,62,Chest Pain,Medium
+1420,Saanvi Mehta,45,Breathing Problem,Medium
+1421,Aditya Mistry,74,Infection,Normal
+1422,Diya Joshi,51,Viral Infection,Normal
+1423,Ananya Kapoor,22,Back Pain,Normal
+1424,Aarav Rao,75,Weakness,Normal
+1425,Saanvi Mistry,21,Dehydration,Normal
+1426,Aditya Verma,55,Diabetes,High
+1427,Sara Malhotra,78,Cold,Normal
+1428,Rohan Mehta,62,High Blood Pressure,Medium
+1429,Meera Rao,21,Sprain,Medium
+1430,Neha Joshi,21,Dizziness,High
+1431,Aanya Khan,71,Fracture,Normal
+1432,Diya Joshi,46,Back Pain,Normal
+1433,Meera Verma,15,Migraine,Normal
+1434,Anika Mistry,40,Fracture,Medium
+1435,Kiara Parekh,73,Cold,High
+1436,Anika Joshi,80,Weakness,Normal
+1437,Diya Parekh,82,Allergy,High
+1438,Aanya Shah,15,Headache,Medium
+1439,Yash Soni,38,Stomach Pain,High
+1440,Sara Parekh,8,Diabetes,Medium
+1441,Karan Verma,43,Diabetes,Normal
+1442,Maya Nair,43,High Blood Pressure,Normal
+1443,Nisha Patel,25,High Blood Pressure,Normal
+1444,Vivaan Thakkar,31,Allergy,High
+1445,Arjun Gupta,45,Breathing Problem,Normal
+1446,Arjun Rao,70,Sprain,Normal
+1447,Rohan Singh,64,Cough,Normal
+1448,Saanvi Singh,23,Cough,Normal
+1449,Kiara Nair,83,Dizziness,Normal
+1450,Diya Gupta,78,Allergy,Normal
+1451,Yash Joshi,68,Viral Infection,Normal
+1452,Vivaan Verma,68,Fever,Normal
+1453,Rahul Dave,63,Back Pain,Normal
+1454,Neha Rao,11,Headache,Normal
+1455,Vivaan Parekh,65,Infection,High
+1456,Aarav Khan,60,Fracture,Normal
+1457,Aditi Rao,56,Breathing Problem,Normal
+1458,Rahul Patel,77,Sprain,Normal
+1459,Riya Mistry,41,Cold,Normal
+1460,Meera Thakkar,75,Migraine,High
+1461,Dev Parekh,20,Fracture,Normal
+1462,Rahul Rao,48,Sprain,Normal
+1463,Yash Desai,30,Dehydration,High
+1464,Rahul Dave,10,Headache,Normal
+1465,Arjun Gupta,65,Viral Infection,Normal
+1466,Arjun Parekh,70,Fracture,Normal
+1467,Aryan Gupta,25,Food Poisoning,High
+1468,Aditi Verma,80,Allergy,High
+1469,Meera Mistry,67,Weakness,Normal
+1470,Vivaan Shah,52,Allergy,Medium
+1471,Ananya Malhotra,79,Infection,Medium
+1472,Nisha Shah,81,Diabetes,Normal
+1473,Anika Soni,78,Back Pain,Medium
+1474,Aanya Soni,66,Chest Pain,High
+1475,Anika Parekh,53,Fracture,Medium
+1476,Isha Patel,78,Cough,Normal
+1477,Aarav Thakkar,45,Dizziness,Normal
+1478,Sara Kapoor,57,Viral Infection,High
+1479,Vivaan Patel,22,Viral Infection,Normal
+1480,Karan Gupta,66,Viral Infection,Normal
+1481,Rohan Joshi,63,Sprain,Normal
+1482,Karan Rao,38,Dehydration,Normal
+1483,Ishaan Singh,40,Sprain,Normal
+1484,Isha Verma,41,Stomach Pain,Medium
+1485,Nisha Trivedi,45,Diabetes,Normal
+1486,Karan Sharma,41,Cough,High
+1487,Dev Mistry,53,Food Poisoning,Normal
+1488,Yash Desai,42,Headache,Normal
+1489,Nisha Mehta,49,High Blood Pressure,Medium
+1490,Kabir Trivedi,32,Stomach Pain,High
+1491,Kabir Mistry,39,Fracture,Normal
+1492,Aryan Soni,35,Back Pain,Normal
+1493,Dev Dave,33,Back Pain,Normal
+1494,Ananya Malhotra,47,Diabetes,Normal
+1495,Dev Desai,5,Sprain,Normal
+1496,Sara Trivedi,66,Stomach Pain,Normal
+1497,Rohan Verma,12,Cold,Medium
+1498,Neha Singh,73,Headache,Normal
+1499,Sara Joshi,9,Food Poisoning,Normal
+1500,Diya Verma,9,Fever,Normal
+1501,Neha Parekh,18,Allergy,Normal
+1502,Saanvi Mistry,72,Diabetes,Normal
+1503,Meera Thakkar,39,Stomach Pain,Normal
+1504,Rohan Joshi,63,Migraine,Medium
+1505,Diya Shah,48,Infection,High
+1506,Dev Kapoor,27,Dehydration,Medium
+1507,Rahul Malhotra,70,Allergy,Normal
+1508,Rahul Khan,28,Fracture,Normal
+1509,Rohan Singh,5,Migraine,Normal
+1510,Isha Thakkar,39,Allergy,Normal
+1511,Neha Soni,6,Migraine,Medium
+1512,Riya Singh,12,Cough,Normal
+1513,Kiara Joshi,56,Viral Infection,Medium
+1514,Yash Verma,20,Infection,Normal
+1515,Aryan Singh,33,Fracture,Normal
+1516,Arjun Thakkar,82,Breathing Problem,Normal
+1517,Nisha Mistry,65,Sprain,Medium
+1518,Ishaan Singh,81,Cold,High
+1519,Saanvi Dave,51,Cold,High
+1520,Ananya Patel,75,Viral Infection,Normal
+1521,Neha Mistry,24,Chest Pain,Normal
+1522,Meera Thakkar,19,Stomach Pain,Medium
+1523,Neha Trivedi,16,Viral Infection,Normal
+1524,Maya Patel,63,Fracture,High
+1525,Sara Thakkar,77,Headache,High
+1526,Saanvi Verma,7,Food Poisoning,Normal
+1527,Aarav Kapoor,79,Cold,Normal
+1528,Sara Rao,13,Sprain,Normal
+1529,Aditya Trivedi,9,Infection,Normal
+1530,Diya Desai,58,Breathing Problem,Normal
+1531,Saanvi Nair,53,Cold,Medium
+1532,Dev Mistry,22,Breathing Problem,Normal
+1533,Diya Mistry,55,Viral Infection,Normal
+1534,Aditi Singh,5,Fever,Normal
+1535,Saanvi Mistry,59,Sprain,Normal
+1536,Isha Singh,63,Breathing Problem,Normal
+1537,Kabir Kapoor,19,Headache,Medium
+1538,Sara Parekh,7,Back Pain,Normal
+1539,Aditya Khan,81,Headache,Normal
+1540,Aryan Patel,36,Headache,Normal
+1541,Saanvi Singh,74,Stomach Pain,Normal
+1542,Arjun Dave,42,Back Pain,Medium
+1543,Neha Gupta,78,Dehydration,Medium
+1544,Rohan Singh,43,Fracture,Medium
+1545,Meera Singh,57,Infection,Normal
+1546,Aanya Mistry,80,Chest Pain,Medium
+1547,Dev Malhotra,76,Diabetes,Normal
+1548,Riya Nair,72,Allergy,Medium
+1549,Sara Malhotra,24,Infection,Normal
+1550,Diya Mistry,65,Back Pain,Normal
+1551,Kiara Desai,64,Headache,High
+1552,Sara Malhotra,76,Viral Infection,Normal
+1553,Rahul Singh,37,Stomach Pain,Normal
+1554,Anika Mehta,62,Breathing Problem,Normal
+1555,Karan Kapoor,11,Migraine,Normal
+1556,Dev Parekh,82,Headache,Normal
+1557,Ishaan Soni,76,Stomach Pain,Normal
+1558,Ishaan Gupta,43,Fever,Normal
+1559,Ishaan Khan,66,Back Pain,Medium
+1560,Aryan Kapoor,55,Back Pain,High
+1561,Rohan Verma,53,High Blood Pressure,High
+1562,Anika Rao,44,Migraine,Normal
+1563,Meera Trivedi,64,Cough,Medium
+1564,Vivaan Gupta,31,Breathing Problem,Normal
+1565,Sara Patel,77,Back Pain,Medium
+1566,Arjun Shah,38,Sprain,High
+1567,Neha Malhotra,42,Fracture,Normal
+1568,Rohan Singh,53,Weakness,Normal
+1569,Vivaan Mistry,48,Migraine,Normal
+1570,Aditi Trivedi,63,Chest Pain,Medium
+1571,Maya Rao,26,Fracture,Medium
+1572,Karan Trivedi,28,Sprain,Medium
+1573,Aanya Dave,9,Cold,Medium
+1574,Aanya Shah,57,Fracture,Medium
+1575,Isha Mehta,24,Fever,Normal
+1576,Meera Thakkar,52,Headache,High
+1577,Anika Parekh,66,Diabetes,Normal
+1578,Aarav Mistry,75,Dizziness,Normal
+1579,Aarav Dave,40,Sprain,Normal
+1580,Aarav Dave,60,Chest Pain,Normal
+1581,Ananya Dave,24,Back Pain,Normal
+1582,Aryan Dave,37,Breathing Problem,Normal
+1583,Maya Nair,15,Breathing Problem,Normal
+1584,Saanvi Soni,36,Back Pain,Normal
+1585,Dev Mehta,9,Cold,Normal
+1586,Rahul Nair,75,Diabetes,Normal
+1587,Anika Shah,26,Cold,Normal
+1588,Sara Gupta,77,Cough,High
+1589,Aanya Singh,32,Weakness,Normal
+1590,Kabir Patel,14,Migraine,High
+1591,Neha Patel,27,Allergy,Normal
+1592,Ishaan Soni,23,Food Poisoning,Normal
+1593,Kiara Joshi,77,Back Pain,High
+1594,Rahul Mistry,47,Food Poisoning,Medium
+1595,Arjun Mehta,69,Breathing Problem,Normal
+1596,Ananya Malhotra,34,Cold,Normal
+1597,Aryan Parekh,81,Food Poisoning,Normal
+1598,Aarav Sharma,62,Diabetes,Normal
+1599,Riya Mistry,53,Dizziness,Normal
+1600,Dev Soni,53,Cold,High
+1601,Kiara Singh,14,Cold,Normal
+1602,Arjun Nair,24,Food Poisoning,Normal
+1603,Riya Khan,16,Fever,Normal
+1604,Saanvi Rao,39,Cough,Normal
+1605,Aditya Joshi,60,High Blood Pressure,High
+1606,Karan Dave,57,Cough,Normal
+1607,Aditya Rao,75,Cold,High
+1608,Aryan Gupta,54,Fever,Normal
+1609,Sara Nair,15,Sprain,Normal
+1610,Neha Dave,26,Food Poisoning,Normal
+1611,Arjun Sharma,43,Migraine,Normal
+1612,Arjun Mehta,26,Dizziness,Normal
+1613,Sara Verma,66,Cold,Normal
+1614,Kabir Singh,85,Diabetes,High
+1615,Aryan Kapoor,63,Cough,Normal
+1616,Kiara Shah,55,Allergy,High
+1617,Rahul Gupta,61,Allergy,Normal
+1618,Anika Parekh,22,Infection,Normal
+1619,Aryan Kapoor,66,Allergy,Normal
+1620,Rahul Gupta,42,Diabetes,High
+1621,Maya Singh,46,Food Poisoning,Normal
+1622,Maya Nair,51,Cough,High
+1623,Ishaan Soni,74,Chest Pain,Medium
+1624,Yash Mistry,8,High Blood Pressure,Medium
+1625,Ishaan Thakkar,42,Cold,Normal
+1626,Dev Trivedi,22,Infection,Normal
+1627,Kabir Desai,59,Food Poisoning,Normal
+1628,Saanvi Parekh,66,Weakness,Normal
+1629,Karan Dave,58,Sprain,Normal
+1630,Maya Rao,73,Dehydration,Medium
+1631,Aditya Khan,36,Breathing Problem,Normal
+1632,Anika Parekh,10,Weakness,Medium
+1633,Dev Nair,47,Dizziness,Normal
+1634,Aarav Khan,38,Back Pain,High
+1635,Aditi Dave,76,Weakness,Medium
+1636,Neha Singh,62,Breathing Problem,Normal
+1637,Saanvi Soni,69,Fracture,Normal
+1638,Aarav Trivedi,18,Infection,Normal
+1639,Aditya Khan,23,Breathing Problem,Normal
+1640,Rohan Thakkar,31,Viral Infection,Normal
+1641,Riya Trivedi,17,High Blood Pressure,Medium
+1642,Nisha Thakkar,45,Cold,Normal
+1643,Aanya Khan,7,Allergy,Medium
+1644,Ananya Joshi,36,Viral Infection,Normal
+1645,Karan Joshi,47,Sprain,Normal
+1646,Saanvi Singh,56,Chest Pain,Normal
+1647,Anika Malhotra,55,Fever,Medium
+1648,Aryan Kapoor,62,Weakness,Normal
+1649,Rahul Shah,32,Stomach Pain,Normal
+1650,Yash Mehta,78,Cough,High
+1651,Diya Rao,46,Stomach Pain,Normal
+1652,Ananya Sharma,67,Viral Infection,Medium
+1653,Rohan Parekh,54,Dehydration,Normal
+1654,Neha Khan,49,Breathing Problem,Normal
+1655,Aryan Joshi,43,Dehydration,High
+1656,Aditya Desai,45,Cough,Normal
+1657,Kiara Khan,28,Breathing Problem,Medium
+1658,Arjun Dave,54,Dizziness,High
+1659,Arjun Soni,54,Dizziness,Normal
+1660,Vivaan Mistry,27,Sprain,Normal
+1661,Vivaan Verma,22,Chest Pain,Normal
+1662,Saanvi Parekh,11,Breathing Problem,Normal
+1663,Vivaan Desai,29,Food Poisoning,High
+1664,Meera Trivedi,57,Diabetes,Normal
+1665,Nisha Thakkar,67,Chest Pain,Normal
+1666,Neha Shah,33,Infection,Normal
+1667,Kabir Singh,73,Infection,Normal
+1668,Yash Thakkar,77,Diabetes,High
+1669,Meera Khan,78,Cough,Normal
+1670,Yash Mistry,51,Sprain,Normal
+1671,Yash Thakkar,74,Stomach Pain,Normal
+1672,Ananya Singh,43,Headache,Normal
+1673,Kabir Rao,16,High Blood Pressure,Normal
+1674,Yash Singh,31,Weakness,Medium
+1675,Riya Parekh,85,Dizziness,Normal
+1676,Aryan Desai,31,Stomach Pain,Normal
+1677,Neha Rao,73,Migraine,High
+1678,Karan Joshi,46,Infection,Normal
+1679,Neha Sharma,70,Cough,Normal
+1680,Yash Malhotra,12,Migraine,Medium
+1681,Arjun Desai,36,Fracture,Medium
+1682,Rohan Singh,55,Diabetes,Normal
+1683,Neha Sharma,85,Dizziness,Normal
+1684,Saanvi Mehta,16,Food Poisoning,High
+1685,Aditi Sharma,52,High Blood Pressure,Normal
+1686,Rohan Soni,5,Cold,Medium
+1687,Saanvi Rao,13,Sprain,Normal
+1688,Ishaan Malhotra,32,Diabetes,Normal
+1689,Rohan Verma,48,Sprain,High
+1690,Arjun Soni,67,Allergy,Medium
+1691,Yash Patel,10,Cough,Medium
+1692,Maya Thakkar,7,Cough,Normal
+1693,Saanvi Thakkar,5,Dizziness,Normal
+1694,Nisha Desai,43,Chest Pain,Normal
+1695,Aditya Rao,37,Cold,Normal
+1696,Dev Joshi,11,Food Poisoning,Medium
+1697,Kiara Singh,59,Cold,Medium
+1698,Ananya Shah,32,Diabetes,Normal
+1699,Arjun Soni,33,Viral Infection,Medium
+1700,Saanvi Shah,6,Allergy,Normal
+1701,Sara Desai,66,Cold,Normal
+1702,Rahul Mehta,18,Cough,Normal
+1703,Riya Verma,22,Food Poisoning,Normal
+1704,Anika Desai,13,Viral Infection,High
+1705,Aarav Parekh,26,High Blood Pressure,Normal
+1706,Aditi Kapoor,85,Fracture,Normal
+1707,Aryan Thakkar,32,Cold,Normal
+1708,Arjun Khan,80,Food Poisoning,Normal
+1709,Sara Gupta,22,Back Pain,Normal
+1710,Anika Mehta,36,Sprain,High
+1711,Aryan Parekh,41,Fever,Medium
+1712,Kiara Kapoor,71,Dehydration,High
+1713,Ishaan Nair,42,Headache,Normal
+1714,Vivaan Nair,19,Back Pain,Normal
+1715,Anika Parekh,14,Viral Infection,Normal
+1716,Riya Gupta,21,Food Poisoning,High
+1717,Sara Rao,74,Chest Pain,Normal
+1718,Yash Mehta,7,Weakness,Normal
+1719,Aarav Sharma,32,Headache,Normal
+1720,Maya Nair,69,Infection,Medium
+1721,Nisha Dave,58,Dizziness,Medium
+1722,Rahul Mehta,73,Sprain,High
+1723,Arjun Sharma,15,Infection,Normal
+1724,Meera Kapoor,24,Sprain,Normal
+1725,Rahul Soni,13,Infection,Medium
+1726,Sara Singh,12,Back Pain,Normal
+1727,Sara Khan,63,Dehydration,High
+1728,Aanya Verma,27,Cough,Normal
+1729,Nisha Desai,6,Chest Pain,Normal
+1730,Riya Dave,71,Migraine,Normal
+1731,Riya Desai,39,Cough,Normal
+1732,Rohan Malhotra,39,Viral Infection,Normal
+1733,Kabir Soni,85,Cold,Normal
+1734,Saanvi Dave,51,Headache,Normal
+1735,Neha Joshi,52,Chest Pain,Normal
+1736,Yash Khan,78,Cough,Normal
+1737,Aditi Dave,5,Headache,Normal
+1738,Isha Patel,65,Breathing Problem,Normal
+1739,Arjun Joshi,9,Sprain,Medium
+1740,Aditi Malhotra,33,Allergy,Normal
+1741,Sara Gupta,39,Cold,High
+1742,Riya Khan,69,Headache,Normal
+1743,Isha Dave,10,Food Poisoning,Normal
+1744,Saanvi Verma,44,Allergy,Normal
+1745,Karan Thakkar,6,Breathing Problem,Normal
+1746,Kiara Soni,43,Dehydration,Normal
+1747,Saanvi Rao,80,Diabetes,Normal
+1748,Aditi Mistry,36,Fracture,Normal
+1749,Sara Shah,34,Sprain,Normal
+1750,Anika Shah,47,Fever,Medium
+1751,Rahul Verma,18,Stomach Pain,High
+1752,Isha Malhotra,67,Headache,Normal
+1753,Nisha Sharma,16,Headache,Normal
+1754,Meera Malhotra,52,High Blood Pressure,Medium
+1755,Aditya Soni,17,Viral Infection,Normal
+1756,Anika Nair,14,Weakness,High
+1757,Aanya Malhotra,21,Back Pain,Normal
+1758,Kabir Gupta,55,Allergy,Normal
+1759,Saanvi Sharma,34,Cold,Normal
+1760,Arjun Soni,18,Fracture,Normal
+1761,Diya Thakkar,64,Allergy,Normal
+1762,Ananya Mistry,50,Stomach Pain,Normal
+1763,Kiara Thakkar,38,Cough,Normal
+1764,Diya Verma,82,Headache,Normal
+1765,Rohan Desai,16,Back Pain,Normal
+1766,Rahul Dave,11,Infection,Normal
+1767,Diya Shah,56,High Blood Pressure,High
+1768,Aditi Mistry,36,Cough,Normal
+1769,Ananya Desai,20,Fever,Normal
+1770,Yash Singh,21,Stomach Pain,Normal
+1771,Riya Mehta,79,Weakness,Normal
+1772,Aditya Shah,13,Stomach Pain,Medium
+1773,Saanvi Desai,16,Allergy,Normal
+1774,Aanya Thakkar,11,Chest Pain,High
+1775,Sara Nair,68,Fever,Normal
+1776,Dev Malhotra,27,Breathing Problem,Normal
+1777,Diya Sharma,40,High Blood Pressure,Normal
+1778,Aanya Parekh,84,Dehydration,Normal
+1779,Anika Verma,68,Dizziness,High
+1780,Vivaan Patel,16,Migraine,Normal
+1781,Arjun Malhotra,30,Viral Infection,Normal
+1782,Anika Mistry,7,Food Poisoning,Medium
+1783,Riya Trivedi,74,Diabetes,Normal
+1784,Neha Dave,46,Food Poisoning,Normal
+1785,Diya Shah,45,Dehydration,Normal
+1786,Aarav Sharma,12,Diabetes,High
+1787,Riya Soni,34,Chest Pain,Normal
+1788,Isha Singh,39,Sprain,Medium
+1789,Aanya Singh,78,Food Poisoning,Normal
+1790,Diya Joshi,35,Weakness,Normal
+1791,Maya Rao,80,Fever,Medium
+1792,Nisha Rao,77,Weakness,Normal
+1793,Neha Kapoor,68,Sprain,Normal
+1794,Diya Trivedi,9,Cold,Normal
+1795,Isha Parekh,33,Fever,High
+1796,Vivaan Shah,47,Dehydration,Normal
+1797,Maya Desai,48,Chest Pain,Normal
+1798,Aanya Shah,23,Weakness,Medium
+1799,Arjun Khan,72,Breathing Problem,Normal
+1800,Riya Nair,80,Cough,Normal
+1801,Kiara Gupta,22,Chest Pain,Medium
+1802,Sara Trivedi,45,Chest Pain,Medium
+1803,Karan Parekh,50,Back Pain,Medium
+1804,Neha Joshi,53,Infection,Medium
+1805,Nisha Verma,21,Chest Pain,Medium
+1806,Aarav Soni,55,Weakness,Normal
+1807,Diya Parekh,45,Dehydration,Normal
+1808,Anika Soni,18,Diabetes,Normal
+1809,Rohan Mehta,35,Breathing Problem,Normal
+1810,Diya Mehta,47,High Blood Pressure,Normal
+1811,Kabir Kapoor,36,Cold,Normal
+1812,Kabir Khan,5,Headache,Normal
+1813,Saanvi Malhotra,26,Dizziness,Normal
+1814,Rahul Rao,74,Food Poisoning,Normal
+1815,Vivaan Soni,33,Chest Pain,Normal
+1816,Aditya Patel,42,Fever,Normal
+1817,Kabir Khan,14,Allergy,Normal
+1818,Rahul Joshi,14,Sprain,Normal
+1819,Rohan Parekh,83,Diabetes,Medium
+1820,Aarav Malhotra,26,Dehydration,Normal
+1821,Diya Patel,17,Allergy,Normal
+1822,Ishaan Malhotra,75,Sprain,Normal
+1823,Dev Verma,43,Back Pain,Normal
+1824,Aanya Nair,78,Sprain,Normal
+1825,Arjun Patel,51,Fever,Normal
+1826,Aditya Verma,85,Dehydration,Normal
+1827,Ishaan Khan,8,Stomach Pain,Normal
+1828,Anika Verma,15,Diabetes,Normal
+1829,Kiara Nair,65,Diabetes,Medium
+1830,Kabir Mehta,74,Food Poisoning,Normal
+1831,Riya Nair,52,Chest Pain,Normal
+1832,Aanya Sharma,61,High Blood Pressure,Normal
+1833,Isha Sharma,77,Headache,Normal
+1834,Yash Khan,15,Breathing Problem,High
+1835,Sara Soni,34,Sprain,Normal
+1836,Rahul Dave,58,Sprain,Medium
+1837,Vivaan Soni,35,Diabetes,Normal
+1838,Aditya Nair,9,Viral Infection,High
+1839,Meera Soni,84,Fracture,Normal
+1840,Yash Thakkar,27,Chest Pain,Normal
+1841,Maya Kapoor,21,Headache,Normal
+1842,Aditya Malhotra,30,Fracture,High
+1843,Kabir Gupta,13,Cold,Normal
+1844,Karan Nair,75,Allergy,Normal
+1845,Meera Thakkar,6,Dehydration,High
+1846,Meera Malhotra,19,Dizziness,Normal
+1847,Arjun Soni,80,Weakness,Normal
+1848,Ananya Soni,17,Infection,High
+1849,Riya Malhotra,38,Food Poisoning,Medium
+1850,Vivaan Soni,82,Diabetes,Normal
+1851,Diya Sharma,56,Fracture,High
+1852,Aryan Nair,9,Food Poisoning,Normal
+1853,Nisha Singh,11,Diabetes,Normal
+1854,Riya Shah,48,Infection,Normal
+1855,Kabir Trivedi,17,Back Pain,Normal
+1856,Kiara Thakkar,46,Migraine,Medium
+1857,Sara Parekh,16,Stomach Pain,Normal
+1858,Ishaan Malhotra,67,Viral Infection,Normal
+1859,Aanya Dave,25,Cold,Normal
+1860,Nisha Dave,56,Fracture,High
+1861,Neha Shah,27,Stomach Pain,Normal
+1862,Aanya Singh,9,High Blood Pressure,Normal
+1863,Riya Kapoor,40,Breathing Problem,Normal
+1864,Meera Nair,20,Fever,Normal
+1865,Riya Trivedi,81,High Blood Pressure,Normal
+1866,Vivaan Soni,75,Breathing Problem,Normal
+1867,Diya Sharma,16,Infection,Normal
+1868,Rahul Patel,25,Weakness,Normal
+1869,Isha Singh,31,Migraine,Medium
+1870,Sara Dave,7,Fever,Normal
+1871,Arjun Joshi,81,Fever,Normal
+1872,Kabir Parekh,44,Migraine,Normal
+1873,Rahul Rao,63,Migraine,Normal
+1874,Saanvi Verma,71,Dehydration,Normal
+1875,Neha Khan,5,Viral Infection,Medium
+1876,Riya Mistry,81,Dehydration,Normal
+1877,Kiara Khan,66,Cold,Normal
+1878,Kabir Gupta,40,Migraine,Medium
+1879,Nisha Verma,29,Fracture,High
+1880,Yash Singh,12,Dehydration,Normal
+1881,Dev Gupta,22,Fever,Medium
+1882,Vivaan Verma,38,Dizziness,Normal
+1883,Rahul Patel,79,Weakness,Normal
+1884,Rohan Singh,73,Diabetes,Medium
+1885,Riya Dave,43,Chest Pain,Medium
+1886,Karan Joshi,42,Cough,Normal
+1887,Arjun Sharma,76,Chest Pain,Medium
+1888,Rohan Mehta,33,Breathing Problem,Normal
+1889,Aditi Verma,58,Allergy,Normal
+1890,Kabir Soni,42,High Blood Pressure,Normal
+1891,Vivaan Patel,79,Weakness,High
+1892,Aditya Trivedi,29,Viral Infection,Normal
+1893,Dev Nair,72,Infection,Normal
+1894,Aanya Desai,22,Stomach Pain,Normal
+1895,Sara Soni,63,Fracture,Normal
+1896,Nisha Joshi,15,Diabetes,Normal
+1897,Anika Joshi,45,Headache,Normal
+1898,Saanvi Sharma,31,Chest Pain,High
+1899,Yash Joshi,67,Cold,Normal
+1900,Aryan Malhotra,59,Food Poisoning,Normal
+1901,Vivaan Nair,5,Headache,High
+1902,Ishaan Rao,6,Allergy,High
+1903,Ishaan Shah,5,Back Pain,Normal
+1904,Nisha Rao,44,Fracture,Normal
+1905,Rahul Dave,80,Infection,Normal
+1906,Aditya Patel,43,Infection,Normal
+1907,Aditi Dave,81,Viral Infection,Normal
+1908,Sara Desai,48,Diabetes,Normal
+1909,Yash Kapoor,26,Food Poisoning,Normal
+1910,Isha Singh,21,Stomach Pain,Medium
+1911,Aarav Soni,69,Chest Pain,Normal
+1912,Riya Patel,53,Migraine,High
+1913,Aryan Patel,81,Headache,Medium
+1914,Ananya Shah,11,Cough,Normal
+1915,Saanvi Nair,20,Sprain,Normal
+1916,Vivaan Desai,31,Fever,Normal
+1917,Sara Khan,71,Migraine,High
+1918,Aryan Desai,58,Cough,High
+1919,Aditi Parekh,20,Infection,Normal
+1920,Maya Khan,68,Stomach Pain,High
+1921,Ishaan Sharma,71,Stomach Pain,Normal
+1922,Nisha Malhotra,42,Chest Pain,Normal
+1923,Karan Trivedi,31,Diabetes,Normal
+1924,Isha Shah,6,Cold,Normal
+1925,Neha Trivedi,24,Cold,High
+1926,Aditya Khan,37,Back Pain,Normal
+1927,Kiara Sharma,64,Headache,Normal
+1928,Diya Patel,42,Breathing Problem,Medium
+1929,Rohan Malhotra,19,Cough,Normal
+1930,Aarav Desai,26,Allergy,Normal
+1931,Saanvi Parekh,39,Cold,Normal
+1932,Rohan Joshi,19,Food Poisoning,Normal
+1933,Saanvi Sharma,54,Diabetes,Normal
+1934,Anika Joshi,19,Fracture,Medium
+1935,Aditi Patel,25,Cough,Normal
+1936,Neha Trivedi,77,High Blood Pressure,Normal
+1937,Aryan Nair,50,Dehydration,Normal
+1938,Dev Desai,66,Diabetes,Normal
+1939,Sara Thakkar,10,Cold,Normal
+1940,Anika Gupta,6,Viral Infection,Medium
+1941,Neha Soni,33,Allergy,High
+1942,Meera Parekh,17,Dizziness,Medium
+1943,Aditi Singh,66,Breathing Problem,Medium
+1944,Dev Nair,24,Sprain,High
+1945,Aanya Shah,25,Viral Infection,Normal
+1946,Vivaan Joshi,14,Diabetes,Normal
+1947,Isha Gupta,40,Headache,High
+1948,Isha Mistry,53,Food Poisoning,Normal
+1949,Aditya Thakkar,61,Weakness,Normal
+1950,Aditya Trivedi,62,Allergy,Normal
+1951,Vivaan Shah,18,Food Poisoning,Normal
+1952,Aanya Mistry,75,Fever,Normal
+1953,Maya Parekh,84,Infection,High
+1954,Karan Kapoor,63,Allergy,Normal
+1955,Aanya Singh,63,Allergy,High
+1956,Yash Parekh,81,Diabetes,Medium
+1957,Dev Rao,62,Cough,Normal
+1958,Yash Singh,5,Allergy,Normal
+1959,Anika Verma,75,Viral Infection,Normal
+1960,Nisha Khan,10,Chest Pain,Normal
+1961,Arjun Malhotra,18,Migraine,High
+1962,Ishaan Kapoor,20,Food Poisoning,Normal
+1963,Saanvi Kapoor,48,Cough,Normal
+1964,Aanya Soni,20,High Blood Pressure,Normal
+1965,Dev Soni,69,Fracture,Normal
+1966,Aarav Dave,11,Sprain,Normal
+1967,Neha Trivedi,70,Chest Pain,Medium
+1968,Neha Joshi,21,Cough,Normal
+1969,Dev Parekh,82,Allergy,High
+1970,Rahul Malhotra,82,Back Pain,Normal
+1971,Rahul Gupta,42,High Blood Pressure,Normal
+1972,Arjun Malhotra,82,Viral Infection,Normal
+1973,Nisha Mistry,45,Sprain,Medium
+1974,Ishaan Kapoor,31,Dehydration,Medium
+1975,Kiara Rao,21,Chest Pain,High
+1976,Karan Gupta,19,Breathing Problem,High
+1977,Vivaan Soni,78,Dizziness,Medium
+1978,Aditi Mistry,41,Dizziness,Normal
+1979,Meera Khan,8,Food Poisoning,Normal
+1980,Aanya Patel,30,Migraine,Normal
+1981,Kiara Sharma,23,Headache,Medium
+1982,Maya Verma,31,Sprain,Normal
+1983,Riya Thakkar,18,Dehydration,Medium
+1984,Aditi Mistry,33,Sprain,Normal
+1985,Isha Dave,41,Headache,Normal
+1986,Rahul Malhotra,45,Sprain,Normal
+1987,Aarav Sharma,30,Dehydration,Normal
+1988,Isha Rao,80,Sprain,Medium
+1989,Aryan Kapoor,29,Infection,Normal
+1990,Diya Mehta,28,Chest Pain,Medium
+1991,Meera Khan,53,Headache,Normal
+1992,Kabir Mistry,38,Fracture,Normal
+1993,Neha Sharma,5,Allergy,Normal
+1994,Nisha Desai,10,Fracture,Normal
+1995,Aryan Patel,85,Dehydration,Medium
+1996,Kiara Trivedi,78,Sprain,Normal
+1997,Aditya Gupta,72,Back Pain,Normal
+1998,Meera Mehta,69,Chest Pain,Normal
+1999,Karan Mistry,56,Cold,Normal
+2000,Isha Kapoor,47,Allergy,Normal
