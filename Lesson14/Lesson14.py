@@ -47,6 +47,9 @@ class Queue:
         
         return self.items.pop(0)
     
+    def is_empty(self):
+        return len(self.items) == 0
+    
     def display(self, limit = 20):
 
         if self.is_empty():
@@ -74,7 +77,7 @@ class PriorityQueeue:
 
     def add(self, patient):
         self.items.append(patient)
-        self.items.sort(key = lambda p: self.priorties[p.priority])
+        self.items.sort(key = lambda p: self.priorities[p.priority])
 
     def display(self):
         if not self.items:
@@ -84,7 +87,7 @@ class PriorityQueeue:
         print("\nEmergency queue is empty.")
         for i, patient in  enumerate(self.items[:20], 1):
             print(
-                i, "." patient_name, "-ID:", patient.patient_id, "-", patient.priority
+                i, "." ,patient.name, "-ID:", patient.patient_id, "-", patient.priority
             )
 
 class TreeNode:
@@ -104,4 +107,110 @@ class HospitalTree:
             "Pharmacy": ["Medicine Counter"]   
                         
         }
+        for department, rooms in departments.items():
+            node = TreeNode(department)
+            for room in rooms:
+                node.children.append(TreeNode(room))
+            self.root.children.append(node)
+    
+    def display_recursive(self, node, level = 0):
+        print(" "* level + "|--", node.name)
+        for child in node.children:
+            self.display_recursive(child, level + 1)
 
+    def display(self):
+        print("\n=============== HOSPITAL DEPARTMENTS =======================")
+        self.display_recursive(self.root)
+
+waiting_queue = Queue()
+emergency_queue = PriorityQueeue()
+hospital_tree = HospitalTree()
+    
+while True:
+
+    print("\n======================================")
+    print("      HOSPITAL MANAGEMENT SYSTEM        ")
+    print("1. Register Patient")
+    print("2. Register Emergency Patient")
+    print("3. View Waiting Queue")
+    print("4. Hospital Departments")
+    print("5. Exit")
+
+    choice = input("\nEnter your choice: ")
+
+    if choice == "1":
+
+        patient_id = input("Enter Patient ID: ")
+        name = input("Enter Patient Name: ")
+        age = int(input("Enter Age"))
+        problem = input("Enter Problem: ")
+
+        new_patient = patient(
+            patient_id,
+            name,
+            age,
+            problem
+        )
+
+        waiting_queue.enqueue(new_patient)
+
+        print("\nPatient registered successfully!")
+
+    elif choice == "2":
+
+        patient_id = input("Enter Patient ID: ")
+        name = input("Enter Patient Name: ")
+        age = int(input("Enter Age: "))
+        problem = input("Enter Problem: ")
+
+        print("\nPriority")
+        print("1.Critical")
+        print("2. High")
+        print("3. Medium")
+
+        priority_choice = input("Enter priority: ")
+
+        if priority_choice == "1":
+            priority = "Critical"
+
+        elif priority_choice == "2":
+            priority = "High"
+
+        else:
+            priority = "Medium"
+        emergency_patient = patient(
+            patient_id,
+            name,
+            age,
+            problem,
+            priority
+        )
+        emergency_queue.add(
+          emergency_patient  
+        )
+        print(
+            "\nEmergency patient registered successfully!"
+        )
+
+    elif choice == "3":
+        waiting_queue.display()
+
+        emergency_queue.display()
+    elif choice == "4":
+
+        hospital_tree.display()
+
+    elif choice == "5":
+
+        print(
+            "\nThank you for using the"
+            "Hospital Mangement System!"
+        )
+
+        break
+
+    else:
+        
+        print(
+            "\nInvalid choice. Please try again."
+        )
